@@ -197,6 +197,38 @@ body{
 }
 
 
+/* customer review */
+.customer h1{
+    text-align: center;
+    margin: 40px 0;
+    color: rgb(70, 70, 70);
+    font-size: 30px;
+}
+.customer-review{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.single-customer{
+    width: 30%;
+    margin-left: 3%;
+}
+
+.single-customer p{
+    font-size: 18px;
+    color: rgb(82, 82, 82);
+    text-align: justify;
+}
+
+.single-customer span{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+
+
 
 
 
