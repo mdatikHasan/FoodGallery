@@ -156,7 +156,7 @@ body{
 .counter-all{
     display: flex;
     border-radius: 10px;
-    box-shadow: 5px 5px 90px 1px #888888;
+    box-shadow: 5px 5px 10px 1px #888888;
 }
 
 .counter-item{
@@ -171,6 +171,34 @@ body{
 .counter-item p{
     color: rgb(105, 104, 104);
 }
+
+
+/* gallery */
+.gallery-section h1{
+    text-align: center;
+    margin: 40px 0;
+    color: rgb(82, 79, 79);
+    font-size: 30px;
+}
+.gallery{
+    display: flex;
+    margin-left: 6%;
+    margin: 20px;
+}
+
+.gallery-item{
+    width: 25%;
+    margin-left: 5%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 2px #888888;
+}
+
+.gallery-item img{
+    width: 200px;
+}
+
+
+
 
 
 
@@ -189,5 +217,6 @@ body{
 }
 #footer-section p{
     color: white;
-    font-size: 18px;
+    font-size: 16px;
 }
+
