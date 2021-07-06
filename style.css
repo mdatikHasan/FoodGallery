@@ -172,3 +172,22 @@ body{
     color: rgb(105, 104, 104);
 }
 
+
+
+
+#footer-section{
+    text-align: center;
+    background-color: rgb(9, 9, 22);
+    padding: 30px 0;
+}
+
+#footer-section h1{
+    color: rgb(153, 150, 150);
+}
+#footer-section span{
+    color: tomato;
+}
+#footer-section p{
+    color: white;
+    font-size: 18px;
+}
