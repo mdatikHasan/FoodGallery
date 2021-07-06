@@ -184,13 +184,12 @@ body{
     display: flex;
     margin-left: 6%;
     margin: 20px;
+    text-align: center;
 }
 
 .gallery-item{
-    width: 25%;
-    margin-left: 5%;
+    width: 55%;
     border-radius: 5px;
-    box-shadow: 1px 1px 5px 2px #888888;
 }
 
 .gallery-item img{
