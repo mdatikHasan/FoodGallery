@@ -147,3 +147,28 @@ body{
     text-align: justify;
 }
 
+
+#counter{
+    width: 80%;
+    margin: 10%;
+}
+
+.counter-all{
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 5px 5px 90px 1px #888888;
+}
+
+.counter-item{
+    width: 30%;
+    text-align: center;
+}
+
+.counter-item h1{
+    font-weight: bolder;
+}
+
+.counter-item p{
+    color: rgb(105, 104, 104);
+}
+
